@@ -11,3 +11,6 @@ OUTCOMES:
 *	Cost Savings: If the wearable reduces the need for hospital visits or interventions, it could lead to cost savings for both patients and healthcare provider 
 *	Medication scheduling: the pregnant ladies could access the feature of scheduled intimations for medicine intake remainders.
 *	Fearless childbirth: pregnant women can make a SOS call in the occurrence of labor pain or any other emergency situation to nearby hospitals and to the  homies.
+
+METHODOLOGY:
+![image](https://github.com/user-attachments/assets/086e1d3c-bf88-450b-8280-95c3059ed5af)
