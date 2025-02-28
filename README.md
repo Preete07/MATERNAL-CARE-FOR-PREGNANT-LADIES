@@ -1,4 +1,5 @@
 ABSTRACT:
+
 To provide a succinct overview of our innovative solution aimed at enhancing maternal care through the development of a wearable wristband tailored for pregnant women. The wristband, equipped with advanced sensors and connectivity features, serves as a comprehensive monitoring and support tool throughout pregnancy. This research explores the design, functionality, and potential impact of the wristband on maternal well-being. We discuss the benefits of real-time health data tracking, remote monitoring capabilities, and the potential to improve prenatal care accessibility. Additionally, the abstract highlights our findings related to user acceptance and the implications for the future of maternal care. This wearable technology offers a promising avenue for optimizing maternal health, reducing complications, and enhancing the overall pregnancy experience.
 
 OBJECTIVES:
