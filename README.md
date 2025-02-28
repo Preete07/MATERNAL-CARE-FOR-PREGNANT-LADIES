@@ -6,8 +6,8 @@ OBJECTIVES:
 •	To maintain nutrition balance.
 
 OUTCOMES:
-	Improved Monitoring: The wristband may allow pregnant women to monitor vital signs like heart rate, fetal movement, and contractions, leading to better awareness of their health and the baby's well-being. 
-	Enhanced Convenience: If the project succeeds, pregnant women may experience increased comfort and convenience in tracking their pregnancy-related data 
-	Cost Savings: If the wearable reduces the need for hospital visits or interventions, it could lead to cost savings for both patients and healthcare provider 
-	Medication scheduling: the pregnant ladies could access the feature of scheduled intimations for medicine intake remainders.
-	Fearless childbirth: pregnant women can make a SOS call in the occurrence of labor pain or any other emergency situation to nearby hospitals and to the  homies.
+*	Improved Monitoring: The wristband may allow pregnant women to monitor vital signs like heart rate, fetal movement, and contractions, leading to better awareness of their health and the baby's well-being. 
+*	Enhanced Convenience: If the project succeeds, pregnant women may experience increased comfort and convenience in tracking their pregnancy-related data 
+*	Cost Savings: If the wearable reduces the need for hospital visits or interventions, it could lead to cost savings for both patients and healthcare provider 
+*	Medication scheduling: the pregnant ladies could access the feature of scheduled intimations for medicine intake remainders.
+*	Fearless childbirth: pregnant women can make a SOS call in the occurrence of labor pain or any other emergency situation to nearby hospitals and to the  homies.
