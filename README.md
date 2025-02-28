@@ -1,9 +1,9 @@
 OBJECTIVES:
-*To enable the continuous monitoring of health parameters  in maternity care.
-*To evaluate the feasibility of using a smart wristband to collect continuous activity, sleep and heart rate data from the beginning of the second trimester until one month postpartum. 
-*To make SOS calls to the nearby hospitals and to a homie in the  emergency situation.
-*To schedule the tablets intake timings
-*To maintain nutrition balance.
+* To enable the continuous monitoring of health parameters  in maternity care.
+* To evaluate the feasibility of using a smart wristband to collect continuous activity, sleep and heart rate data from the beginning of the second trimester until one month postpartum.
+* To make SOS calls to the nearby hospitals and to a homie in the  emergency situation.
+* To schedule the tablets intake timings
+* To maintain nutrition balance.
 
 OUTCOMES:
 *	Improved Monitoring: The wristband may allow pregnant women to monitor vital signs like heart rate, fetal movement, and contractions, leading to better awareness of their health and the baby's well-being. 
